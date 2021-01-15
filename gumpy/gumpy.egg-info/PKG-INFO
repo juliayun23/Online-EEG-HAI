@@ -1,0 +1,26 @@
+Metadata-Version: 1.2
+Name: gumpy
+Version: 0.5.0
+Summary: EEG signal processing and classification toolbox
+Home-page: www.gumpy.org
+Maintainer: The gumpy developers
+Maintainer-email: zied.tayeb@tum.de
+License: MIT
+Description: EEG signal processing and classification toolbox.
+        
+        This toolbox provides signal processing functions and classes to work with BCI
+        datasets. Many of the functions internally call existing libraries for signal
+        processing or numerical computation such as ``numpy`` or ``scipy``. In these
+        cases the functions are called with parameters that were found to be suitable
+        for BCI computing and brain machine interfaces.
+        
+        The name of the toolbox is a reference to the Gumby Brain Specialist sketch by
+        Monty Python.
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering :: Human Machine Interfaces
+Requires-Python: >=3
