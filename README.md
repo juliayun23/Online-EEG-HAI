@@ -3,7 +3,7 @@ This is the source code for an online Human-Agent Interaction (HAI) system, cont
 
 
 ## Setup
-Hardware equipments needed:
+Hardware equipments required:
 1. A Windows computer/laptop installed with [Unity](https://unity.com/) (The reading of EEG raw data from the headset is only supported by the Windows OS)
 2. An [Emotiv Epoc+](https://www.emotiv.com/epoc/) Headset
 
